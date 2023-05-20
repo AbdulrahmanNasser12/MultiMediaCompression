@@ -1,2 +1,2 @@
 # MultiMediaCompression
-Many data Compression Projects with differant Algorithms
+Many Data Compression Projects with differant Algorithms
